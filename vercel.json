@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/api/mailsender",
+      "schedule": "*/15 * * * *"
+    }
+  ]
+}
